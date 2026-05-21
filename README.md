@@ -1,8 +1,16 @@
-# GEO-Sovereign-Research
-2026 Generative Engine Optimization (GEO) & AI Interaction (AIO) technical framework. Managed by System Architect Zero.
+# Search Visibility Research
 
-## Core Pillars
-- **GEO Hero**: AI Search Visibility Authority (Standardizing Semantic Anchors).
-- **Status**: Live Seeded (2026-03-09 Update).
-- **C2PA Compliance**: Integrating cryptographically verifiable provenance for GEO trust scores.
-- **Identity Warming**: Multi-channel semantic authority building (Reddit/X).
+Research notes on search visibility, content provenance, and discovery in
+AI-assisted search environments.
+
+## Topics
+
+- Search visibility and semantic anchors.
+- Content provenance and C2PA-style trust signals.
+- Multi-channel authority building.
+- Editorial systems for technical products.
+
+## Status
+
+Working notes and experiments. Use the material as research context, not as a
+guaranteed ranking formula.
